@@ -1,4 +1,4 @@
-# predicting-the-trend-of-the-house-price-with-united-states-data-and-regression-models-
+# predicting the trend of the house price with united states data and regression models
 
 This project predicts house prices using the XGBoost regressor model. It's based on the Kaggle competition "House Prices - Advanced Regression Techniques" and uses the provided training and test datasets.  The project focuses on data preprocessing, feature engineering, and model training to achieve accurate predictions.
 
