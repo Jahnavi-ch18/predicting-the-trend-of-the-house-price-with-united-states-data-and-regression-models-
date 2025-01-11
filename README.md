@@ -1,0 +1,1 @@
+# predicting-the-trend-of-the-house-price-with-united-states-data-and-regression-models-
